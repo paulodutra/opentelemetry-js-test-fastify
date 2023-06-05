@@ -20,7 +20,7 @@ docker run -d --name jaeger \
 ```
 2. Go to http://localhost:16686/search to use Jaeger
 
-3. You need the prometheus, you can the tutorial of this repository: https://github.com/paulodutra/opentelemetry-test-prometheus-2.44-linux. After go to http://localhost:9090/
+3. You need the prometheus, you can do the tutorial of this repository: https://github.com/paulodutra/opentelemetry-test-prometheus-2.44-linux. After go to http://localhost:9090/
 
 4. After you did the third step, install dependencies of the project:
 
